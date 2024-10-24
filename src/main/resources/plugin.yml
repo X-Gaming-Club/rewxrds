@@ -1,0 +1,16 @@
+name: rewxrds
+version: '${project.version}'
+main: org.xgaming.rewxrds.Rewxrds
+api-version: '1.21'
+commands:
+  rewxrdf:
+    description: Give items from JSON files to players
+    usage: /rewxrdf <json-file> OR /rewxrdf <player> <json-file>
+  reward:
+    description: Get a reward based on a description
+    usage: /reward <description>
+    permission: xg.reward
+permissions:
+  xg.reward:
+    description: Allows players to use the /reward command
+    default: op

@@ -1,0 +1,17 @@
+{
+  "material": "POTION",
+  "name": "§dMystic Potion",
+  "effects": {
+    "SPEED": {
+      "duration": 200,
+      "level": 2
+    },
+    "STRENGTH": {
+      "duration": 100,
+      "level": 1
+    }
+  },
+  "lore": [
+    "§7Grants supernatural powers"
+  ]
+}

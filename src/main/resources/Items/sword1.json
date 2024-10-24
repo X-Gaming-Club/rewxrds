@@ -1,0 +1,15 @@
+{
+  "material": "DIAMOND_SWORD",
+  "quantity": 1,
+  "name": "§6Legendary Sword",
+  "lore": [
+    "§7A powerful ancient weapon",
+    "§cDeals extra damage"
+  ],
+  "enchantments": {
+    "sharpness": 5,
+    "unbreaking": 3,
+    "fire_aspect": 2
+  },
+  "customModelData": 1001
+}
